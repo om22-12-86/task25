@@ -1,0 +1,15 @@
+/Users/om/projects/test1/bin/Debug/net7.0/test1
+/Users/om/projects/test1/bin/Debug/net7.0/test1.deps.json
+/Users/om/projects/test1/bin/Debug/net7.0/test1.runtimeconfig.json
+/Users/om/projects/test1/bin/Debug/net7.0/test1.dll
+/Users/om/projects/test1/bin/Debug/net7.0/test1.pdb
+/Users/om/projects/test1/obj/Debug/net7.0/test1.csproj.AssemblyReference.cache
+/Users/om/projects/test1/obj/Debug/net7.0/test1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/om/projects/test1/obj/Debug/net7.0/test1.AssemblyInfoInputs.cache
+/Users/om/projects/test1/obj/Debug/net7.0/test1.AssemblyInfo.cs
+/Users/om/projects/test1/obj/Debug/net7.0/test1.csproj.CoreCompileInputs.cache
+/Users/om/projects/test1/obj/Debug/net7.0/test1.dll
+/Users/om/projects/test1/obj/Debug/net7.0/refint/test1.dll
+/Users/om/projects/test1/obj/Debug/net7.0/test1.pdb
+/Users/om/projects/test1/obj/Debug/net7.0/test1.genruntimeconfig.cache
+/Users/om/projects/test1/obj/Debug/net7.0/ref/test1.dll
